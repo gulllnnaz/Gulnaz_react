@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Batman",
+    "club": "DC",
+    "url": "https://upload.wikimedia.org/wikipedia/az/4/40/Batmanlee.png"
+  },
+  {
+    "name": "Superman",
+    "club": "DC",
+    "url": "https://upload.wikimedia.org/wikipedia/ru/thumb/6/68/Superman01.jpg/227px-Superman01.jpg"
+  },
+  {
+    "name": "Aquamen",
+    "club": "DC",
+    "url": "https://upload.wikimedia.org/wikipedia/ru/thumb/f/f8/Aquaman-by-Alex-Ross.jpg/230px-Aquaman-by-Alex-Ross.jpg"
+  }
+]
